@@ -22,3 +22,12 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Claude
+CLAUDE.md
+.claude/
+
+# Firebase
+.firebase/
+firebase-debug.log
+.firebaserc
